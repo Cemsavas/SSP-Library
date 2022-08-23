@@ -1,5 +1,5 @@
-# SDP Librady
- SDP (Scalable Dimension Pixels) is a easy library to adjust Views for all screensizes
+# SSP Librady
+ SSP (Size Scalable Pixels) is a easy library to adjust Text sizes for all screensizes
  
 🎢Steps : How to Implement ?
 
