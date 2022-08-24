@@ -9,6 +9,9 @@
 
 ✔Go to your activity layout and change texts "ssp" to "@dimen/_ssp"
 
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/88722745/186397171-9873a88e-d085-403a-9401-aad19677f66e.png">
+
+
 Example : 
 Change "20ssp" to "@dimen/_20ssp"
 
